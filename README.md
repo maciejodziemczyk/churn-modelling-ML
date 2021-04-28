@@ -46,7 +46,7 @@ In this project I learnd a ton of machine learning models and end-to-end process
  - symulacja.p - bootstrap ensembling simulation results
 
 ## Technologies
- - Python (numpy, pandas, matplotlib.pyplot, seabor, statsmodels, scikit-learn, scipy, keras, xgboost)
+ - Python (numpy, pandas, matplotlib.pyplot, seaborn, statsmodels, scikit-learn, scipy, keras, xgboost)
  - Jupyter Notebook
 
 ## Author

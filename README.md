@@ -19,7 +19,7 @@ The main objective of this project was to gain some experience, practice and per
  - logit reestimation (random forest performance level after EDA)
  - some experiments with SVM and kNN
 3. In the third part you can see:
- - Neural Network (Feedforward MLP) dewelopment (optimizers, batch size, activation functions, regularization, dropout, experiments with architecture, cross validation)
+ - Neural Network (Feedforward MLP) development (optimizers, batch size, activation functions, regularization, dropout, experiments with architecture, cross validation)
  - all the best models comparison
  - logit y~X, where y is target variable and X is all the model predictions matrix to find the best model and gain an intuition about ensembling and votings weights
  - bootstrap simulation to find best ensembling weights

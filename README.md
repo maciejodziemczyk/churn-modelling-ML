@@ -8,17 +8,17 @@ Semester: II (MA studies)
 
 ## About
 The main objective of this project was to gain some experience, practice and perform own experiments with Machine Learning models learned during classes. The idea was to show my ML journey with this dataset. Moreover I gained some expert knowledge about churn events while working on this project, which is very cool for me (mostly during feature engineering part). The project was divided into 3 parts + one presentation notebook (used during project defense).<br>
-1. In the first one you can see:
+1. In the first part you can see:
  - basic data preprocessing and analysis (s.t data structure, variables, target balance, correlation, null/missing check, variables mean equality between target classes, label encoding for tree-based models)
  - first Logit, Random Forest and XGBoost with hyperparameters optimization using hand coded random search in k-Fold Cross Validation wrapper
  - basic feature importance analysis and feature engineering
-2. In the second one you can see:
+2. In the second part you can see:
  - complex EDA and feature engineering (distribution analysis, non linear transformations, quantile splitting, normalization or unitarization for continuous variables, cross tables for discrete variables)
  - feature selection using Mutual Information, Spearman Correlation coef, General to Specyfic procedure 
  - more feature engineering (interactions)
  - logit reestimation (random forest performance level after EDA)
  - some experiments with SVM and kNN
-3. In the third one you can see:
+3. In the third part you can see:
  - Neural Network (Feedforward MLP) dewelopment (optimizers, batch size, activation functions, regularization, dropout, experiments with architecture, cross validation)
  - all the best models comparison
  - logit y~X, where y is target variable and X is all the model predictions matrix to find the best model and gain an intuition about ensembling and votings weights

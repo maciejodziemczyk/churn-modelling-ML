@@ -30,7 +30,7 @@ Findings:
  - tree-based models are robust to monotonic transformations and basic feature engineering (reasonable)
  - XGBoost is extremely good algorithm in this problem, even ensembling gave worse results
  - tree-based models are very easy to overfit
- - neural networks are extremely powerful but requires more experiments and knowledge
+ - neural networks are extremely powerful but require more experience and knowledge 
 
 In this project I learnd a ton of machine learning models and end-to-end process, data analysis, feature engineering and how to think about it. I gained more experience and practice with Python. It is very cool project I think, and my first such a bich ML analysis. This classes was one of the best I have ever participated.  
 

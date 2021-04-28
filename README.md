@@ -27,7 +27,7 @@ The main objective of this project was to gain some experience, practice and per
 
 Findings:
  - EDA is such a complex process but very important, even simple models with deep EDA and feature engineering can obtain good results
- - tree-based models tends to be robust to monotonic transformations and basic feature engineering (reasonable)
+ - tree-based models are robust to monotonic transformations and basic feature engineering (reasonable)
  - XGBoost is extremely good algorithm in this problem, even ensembling gave worse results
  - tree-based models are very easy to overfit
  - neural networks are extremely powerful but requires more experiments and knowledge

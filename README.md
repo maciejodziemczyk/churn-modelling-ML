@@ -41,7 +41,7 @@ In this project I learnd a ton of machine learning models and end-to-end process
  - 3 - Sieci neuronowe i model finalny.ipynb - Jupyter notebook with third part of the analysis
  - Churn_Modelling.csv - dataset found on kaggle.com
  - df.p and dffin.p - different variants of dataset (depending on EDA and Feature engineering)
- - hpl.ipynb and hpl.py - helper functions used during analusis (in notebook format and python script)
+ - hpl.ipynb and hpl.py - helper functions used during analysis (in notebook format and python script)
  - model_XX_.py - saved models (dictionary of specifications and predictions)
  - symulacja.p - bootstrap ensembling simulation results
 

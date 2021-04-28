@@ -52,6 +52,5 @@ In this project I learnd a ton of machine learning models and end-to-end process
 ## Author
 Maciej Odziemczyk
 
-##
-Note
+## Note
 Some of the scripts and functions or ideas used in this project was developed by my teacher (dr Maciej Wilamowski)

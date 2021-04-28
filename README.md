@@ -22,7 +22,7 @@ The main objective of this project was to gain some experience, practice and per
  - Neural Network (Feedforward MLP) development (optimizers, batch size, activation functions, regularization, dropout, experiments with architecture, cross validation)
  - the best models comparison
  - logit y~X, where y is target variable and X is all models predictions matrix to find the best model and gain an intuition about ensembling and votings weights
- - bootstrap simulation to find best ensembling weights
+ - bootstrap simulation to find best ensembling weights (voting)
 4. In the "zero" -th notebook you can see main conclusions and stuff used during defense.
 
 Findings:
